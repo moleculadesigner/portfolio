@@ -1,6 +1,6 @@
 # Me
 
-I am Danila Iakovlev, PhD in biochemistry. I work as a computational chemist in drug discovery team at [Biocad](biocadglobal.com), St. Petersburg. My fields of scientific interest are:
+I am Danila Iakovlev, PhD in biochemistry. I work as a computational chemist in drug discovery team at [Biocad](https://biocadglobal.com), St. Petersburg. My fields of scientific interest are:
 * Protein structures;
 * Drug Discovery;
 * Protein dynamics;
