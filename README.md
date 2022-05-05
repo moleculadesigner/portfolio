@@ -1,8 +1,8 @@
 # Me
 
-I am Danila Iakovlev, a PhD fellow in Novosibirsk Institute of Chemical Biology
-and Fundamental Medicine SB RAS. My fields of scientific interest are:
+I am Danila Iakovlev, PhD in biochemistry. I work as a computational chemist in drug discovery team at [Biocad](biocadglobal.com), St. Petersburg. My fields of scientific interest are:
 * Protein structures;
+* Drug Discovery;
 * Protein dynamics;
 * Nature of biocatalysis;
 * Visualization of biomolecules and, generally, scientific information representation
@@ -13,7 +13,7 @@ Also I like making strange electronic music
 
 # Collection of my conference posters, slides and articles
 
-## Main Work @ ICBFM
+## Work @ ICBFM (2015 – 2019, PhD Fellow)
 
 My postgraduate work is about conformational dymanics of DNA repair proteins.
 I concider BER pathway participants, which repair U:G and T:G mismathces. Our team has
@@ -28,6 +28,10 @@ SMUG1 is a bit simpler guy: it just removes uracil and 5-hydroxymethyluracil
 from DNA. But there is still no crystal structure of human SMUG1. We made a model
 structure of it and [studied its kinetics](Articles/MolBioSystems-SMUG1.pdf).
 Results were also represented at FEBS Congress 2018 ([poster](Posters/FEBS-2018.pdf)).
+
+## Work @ Biocad (2019 – current time)
+
+As a member of drug discovery team, I conduct computational experiments and molecular modelling in support of computer aided drug discovery. I am responsible for product strategy, formulating and maintaining medicinal chemistry hypotheses.
 
 ## Pet projects
 
